@@ -1,0 +1,30 @@
+form {
+    background: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    border: 2px solid rgb(42, 113, 172);
+    width: 300px;
+    border-radius: 10px;
+}
+
+input {
+    width: 100%;
+    margin-left: 5px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+
+button {
+    background: rgb(42, 113, 172);
+    border: none;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+button:hover {
+    background: rgb(69, 147, 211);
+}
